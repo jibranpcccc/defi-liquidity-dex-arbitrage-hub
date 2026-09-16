@@ -1,0 +1,497 @@
+[
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-1",
+    "title": "r/yieldfarming DeFi Alpha",
+    "platform": "Reddit",
+    "category": "DeFi Yield",
+    "memberCount": "65,000+ members",
+    "description": "High-yield liquidity pooling, impermanent loss analysis, and automated yield optimizers across layer-2s.",
+    "joinUrl": "https://www.reddit.com/r/yieldfarming/",
+    "tags": [
+      "defi",
+      "yield",
+      "liquidity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-2",
+    "title": "r/defi Decentralized Finance",
+    "platform": "Reddit",
+    "category": "DeFi Protocols",
+    "memberCount": "180,000+ members",
+    "description": "Global discussion on non-custodial financial infrastructure, lending markets, AMM mechanisms, and protocol risk.",
+    "joinUrl": "https://www.reddit.com/r/defi/",
+    "tags": [
+      "defi",
+      "crypto",
+      "ethereum",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-3",
+    "title": "r/ethereum Core Technology",
+    "platform": "Reddit",
+    "category": "Ethereum",
+    "memberCount": "3,400,000+ members",
+    "description": "Official Ethereum blockchain community covering EIP standards, staking rewards, smart contract security, and L2 rollups.",
+    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "tags": [
+      "ethereum",
+      "smart-contracts",
+      "crypto",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-4",
+    "title": "r/ethtrader Yield & Market Discussion",
+    "platform": "Reddit",
+    "category": "Ethereum Trading",
+    "memberCount": "2,800,000+ members",
+    "description": "DeFi staking strategies, liquid staking derivatives (LSDs), and macroeconomic Ethereum liquidity trends.",
+    "joinUrl": "https://www.reddit.com/r/ethtrader/",
+    "tags": [
+      "eth",
+      "trading",
+      "staking",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-5",
+    "title": "r/CryptoCurrency Global Network",
+    "platform": "Reddit",
+    "category": "Cryptocurrency",
+    "memberCount": "9,200,000+ members",
+    "description": "The largest digital asset discussion forum monitoring tokenomics, regulatory updates, and market dynamics.",
+    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "tags": [
+      "crypto",
+      "blockchain",
+      "finance",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-6",
+    "title": "r/arbitrum Layer-2 Scaling",
+    "platform": "Reddit",
+    "category": "Layer 2",
+    "memberCount": "75,000+ members",
+    "description": "Arbitrum One and Nova ecosystem developments, gas optimization, bridge protocols, and low-slippage swaps.",
+    "joinUrl": "https://www.reddit.com/r/arbitrum/",
+    "tags": [
+      "arbitrum",
+      "layer2",
+      "defi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-7",
+    "title": "r/optimism Collective Hub",
+    "platform": "Reddit",
+    "category": "Optimism L2",
+    "memberCount": "45,000+ members",
+    "description": "OP Stack governance, retro funding, superchain liquidity routing, and decentralized sequencing.",
+    "joinUrl": "https://www.reddit.com/r/optimism/",
+    "tags": [
+      "optimism",
+      "l2",
+      "superchain",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-8",
+    "title": "r/0xPolygon Ecosystem",
+    "platform": "Reddit",
+    "category": "Polygon PoS & zkEVM",
+    "memberCount": "210,000+ members",
+    "description": "Zero-knowledge rollups, proof-of-stake validator delegation, and decentralized exchange liquidity.",
+    "joinUrl": "https://www.reddit.com/r/0xPolygon/",
+    "tags": [
+      "polygon",
+      "zkevm",
+      "staking",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-9",
+    "title": "r/Avax Avalanche Consensus",
+    "platform": "Reddit",
+    "category": "Avalanche",
+    "memberCount": "85,000+ members",
+    "description": "Subnet architecture, high-speed finality, and cross-subnet asset liquidity on Avalanche.",
+    "joinUrl": "https://www.reddit.com/r/Avax/",
+    "tags": [
+      "avalanche",
+      "subnets",
+      "defi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-10",
+    "title": "r/UniSwap DEX Protocol",
+    "platform": "Reddit",
+    "category": "DEX & AMM",
+    "memberCount": "95,000+ members",
+    "description": "Uniswap v3 & v4 concentrated liquidity ranges, fee tier analytics, and routing algorithms.",
+    "joinUrl": "https://www.reddit.com/r/UniSwap/",
+    "tags": [
+      "uniswap",
+      "amm",
+      "dex",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-11",
+    "title": "r/Aave_Official Liquidity Market",
+    "platform": "Reddit",
+    "category": "Lending Protocol",
+    "memberCount": "35,000+ members",
+    "description": "Overcollateralized crypto borrowing, flash loans, and stablecoin interest rate models.",
+    "joinUrl": "https://www.reddit.com/r/Aave_Official/",
+    "tags": [
+      "aave",
+      "lending",
+      "defi",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-12",
+    "title": "r/CurveFinance Stable Pools",
+    "platform": "Reddit",
+    "category": "Stablecoin AMM",
+    "memberCount": "22,000+ members",
+    "description": "Deep-liquidity stablecoin bonding curves, crvUSD algorithmic stability, and gauge vote governance.",
+    "joinUrl": "https://www.reddit.com/r/CurveFinance/",
+    "tags": [
+      "curve",
+      "stables",
+      "amm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-13",
+    "title": "r/Compound Money Markets",
+    "platform": "Reddit",
+    "category": "DeFi Lending",
+    "memberCount": "28,000+ members",
+    "description": "Compound III collateral factors, interest rate formulas, and multi-chain protocol deployments.",
+    "joinUrl": "https://www.reddit.com/r/Compound/",
+    "tags": [
+      "compound",
+      "lending",
+      "interest",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-14",
+    "title": "r/MakerDAO DAI Governance",
+    "platform": "Reddit",
+    "category": "Stablecoin Protocol",
+    "memberCount": "40,000+ members",
+    "description": "Endgame architecture, real-world asset collateralization, and DAI savings rate (DSR) yield.",
+    "joinUrl": "https://www.reddit.com/r/MakerDAO/",
+    "tags": [
+      "makerdao",
+      "dai",
+      "rwa",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-15",
+    "title": "r/LidoFinance Liquid Staking",
+    "platform": "Reddit",
+    "category": "Liquid Staking",
+    "memberCount": "18,000+ members",
+    "description": "stETH validator decentralization, withdrawal queue telemetry, and liquid staking DeFi integrations.",
+    "joinUrl": "https://www.reddit.com/r/LidoFinance/",
+    "tags": [
+      "lido",
+      "steth",
+      "staking",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-16",
+    "title": "Uniswap Official Discord",
+    "platform": "Discord",
+    "category": "AMM & Liquidity",
+    "memberCount": "135,000+ members",
+    "description": "Official community Discord for Uniswap protocol engineers, liquidity providers, and grant recipients.",
+    "joinUrl": "https://discord.gg/uniswap",
+    "tags": [
+      "uniswap",
+      "amm",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-17",
+    "title": "Aave Community Discord",
+    "platform": "Discord",
+    "category": "Lending & Flash Loans",
+    "memberCount": "62,000+ members",
+    "description": "Developer and governance channels for Aave protocol improvements, risk parameters, and GHO stablecoin.",
+    "joinUrl": "https://discord.gg/aave",
+    "tags": [
+      "aave",
+      "lending",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-18",
+    "title": "Curve Finance Community Discord",
+    "platform": "Discord",
+    "category": "Stable AMM",
+    "memberCount": "48,000+ members",
+    "description": "Technical support, veCRV voting discussions, and algorithmic pool performance telemetry.",
+    "joinUrl": "https://discord.gg/curvefinance",
+    "tags": [
+      "curve",
+      "defi",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-19",
+    "title": "Lido Finance Governance Discord",
+    "platform": "Discord",
+    "category": "Liquid Staking",
+    "memberCount": "41,000+ members",
+    "description": "Node operator consortium and research hub for liquid staking derivatives on Ethereum.",
+    "joinUrl": "https://discord.gg/lido",
+    "tags": [
+      "lido",
+      "staking",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-20",
+    "title": "Ethereum Official Discord",
+    "platform": "Discord",
+    "category": "Ethereum Core",
+    "memberCount": "220,000+ members",
+    "description": "All-core-devs discussion, execution client engineering, and research consensus channels.",
+    "joinUrl": "https://discord.gg/ethereum",
+    "tags": [
+      "ethereum",
+      "core",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-21",
+    "title": "Arbitrum Builders Discord",
+    "platform": "Discord",
+    "category": "L2 Rollups",
+    "memberCount": "180,000+ members",
+    "description": "Developer support for Nitro fraud proofs, Stylus multi-language smart contracts, and Orbit chains.",
+    "joinUrl": "https://discord.gg/arbitrum",
+    "tags": [
+      "arbitrum",
+      "layer2",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-22",
+    "title": "Optimism Collective Discord",
+    "platform": "Discord",
+    "category": "L2 Scaling",
+    "memberCount": "140,000+ members",
+    "description": "Governance delegates, OP chain deployers, and public goods funding channels.",
+    "joinUrl": "https://discord.gg/optimism",
+    "tags": [
+      "optimism",
+      "op",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-discord-23",
+    "title": "Polygon Developers Discord",
+    "platform": "Discord",
+    "category": "Polygon zkEVM",
+    "memberCount": "190,000+ members",
+    "description": "Polygon CDK developers, aggregation layer (AggLayer) engineers, and dApp builders.",
+    "joinUrl": "https://discord.gg/0xpolygon",
+    "tags": [
+      "polygon",
+      "zk",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-telegram-24",
+    "title": "DeFi Farmers Broadcast",
+    "platform": "Telegram",
+    "category": "Yield Strategies",
+    "memberCount": "52,000+ members",
+    "description": "Curated announcements on verified smart contract audits, APY changes, and protocol incentives.",
+    "joinUrl": "https://t.me/defifarmer",
+    "tags": [
+      "defi",
+      "yield",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-telegram-25",
+    "title": "Ethereum Research Broadcast",
+    "platform": "Telegram",
+    "category": "Ethereum R&D",
+    "memberCount": "68,000+ members",
+    "description": "Technical summaries of proto-danksharding, MEV burn, and state statelessness research.",
+    "joinUrl": "https://t.me/eth",
+    "tags": [
+      "ethereum",
+      "research",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-telegram-26",
+    "title": "Uniswap Protocol Updates",
+    "platform": "Telegram",
+    "category": "DEX Updates",
+    "memberCount": "42,000+ members",
+    "description": "Automated notification channel for new pool deployments and protocol fee governance votes.",
+    "joinUrl": "https://t.me/uniswap",
+    "tags": [
+      "uniswap",
+      "dex",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-telegram-27",
+    "title": "Aave Developers Chat",
+    "platform": "Telegram",
+    "category": "DeFi Development",
+    "memberCount": "29,000+ members",
+    "description": "Technical community discussing smart contract integration, liquidation bots, and oracle feeds.",
+    "joinUrl": "https://t.me/AaveDevelopers",
+    "tags": [
+      "aave",
+      "developers",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-forum-28",
+    "title": "Ethereum Research Collective",
+    "platform": "Forum",
+    "category": "Blockchain R&D",
+    "memberCount": "110,000+ members",
+    "description": "The premier academic forum for consensus layer research, zero-knowledge proofs, and cryptoeconomics.",
+    "joinUrl": "https://ethresear.ch",
+    "tags": [
+      "ethereum",
+      "cryptoeconomics",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-forum-29",
+    "title": "Uniswap Governance Portal",
+    "platform": "Forum",
+    "category": "Decentralized Governance",
+    "memberCount": "85,000+ members",
+    "description": "Official community governance forum for Uniswap Improvement Proposals (UIP) and treasury grants.",
+    "joinUrl": "https://gov.uniswap.org",
+    "tags": [
+      "uniswap",
+      "governance",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-forum-30",
+    "title": "Aave Governance Hub",
+    "platform": "Forum",
+    "category": "Protocol Risk & Parameters",
+    "memberCount": "72,000+ members",
+    "description": "Risk parameter modeling, collateral onboarding requests, and tokenomic improvement proposals.",
+    "joinUrl": "https://governance.aave.com",
+    "tags": [
+      "aave",
+      "governance",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
