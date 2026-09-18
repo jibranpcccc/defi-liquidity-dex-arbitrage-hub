@@ -4,10 +4,17 @@
     <title>DeFi Liquidity Providing &amp; DEX Arbitrage Hub</title>
     <link>https://defi-liquidity-dex-arbitrage-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:20:29 GMT</lastBuildDate>
     <atom:link href="https://defi-liquidity-dex-arbitrage-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/defi-liquidity-dex-arbitrage-hub/#defi-liquidity-dex-arbitrage-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:20:29 GMT</pubDate>
+      <description>Newly verified community added to DeFi Liquidity Providing &amp; DEX Arbitrage Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>DeFi Liquidity Providing &amp; DEX Arbitrage Hub Initial Release</title>
       <link>https://defi-liquidity-dex-arbitrage-hub.vercel.app/</link>
       <pubDate>Wed, 16 Sep 2026 10:34:24 GMT</pubDate>
