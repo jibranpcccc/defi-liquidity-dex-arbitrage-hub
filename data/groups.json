@@ -1,5 +1,24 @@
 [
   {
+    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-7",
+    "title": "r/optimism Collective Hub",
+    "platform": "Reddit",
+    "category": "Optimism L2",
+    "memberCount": "45,000+ members",
+    "description": "OP Stack governance, retro funding, superchain liquidity routing, and decentralized sequencing.",
+    "joinUrl": "https://www.reddit.com/r/optimism/",
+    "tags": [
+      "optimism",
+      "l2",
+      "superchain",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-6",
     "title": "r/arbitrum Layer-2 Scaling",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -701,24 +720,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-7",
-    "title": "r/optimism Collective Hub",
-    "platform": "Reddit",
-    "category": "Optimism L2",
-    "memberCount": "45,000+ members",
-    "description": "OP Stack governance, retro funding, superchain liquidity routing, and decentralized sequencing.",
-    "joinUrl": "https://www.reddit.com/r/optimism/",
-    "tags": [
-      "optimism",
-      "l2",
-      "superchain",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "defi-liquidity-providing-dex-arbitrage-hub-reddit-8",
